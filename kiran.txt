@@ -1,2 +1,3 @@
 just trying for the git practice!
 hi updating file
+iam updating some thing here for git stash option!
